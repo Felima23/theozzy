@@ -1,7 +1,7 @@
 import './index.css'
 import ifood from "../../assets/IMG/ifood-43.svg"
 import goomer from "../../assets/IMG/goomer-seeklogo.svg"
-import delivery from "../../assets/IMG/delivery.jpg"
+import delivery from "../../assets/IMG/delivery.svg"
 import { IMGAPP, IMGBANNER, IMGOMER, P, TITLE } from './styles';
 
 function Pedidosdelivery(){
