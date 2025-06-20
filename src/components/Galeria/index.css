@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.galeria-container{
+    width: 100%;
+    overflow: hidden;
+}
+.galeria-faixa{
+    display: flex;
+    gap: 20px;
+    animation: deslizar 10s linear infinite;
+}
+@keyframes deslizar {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}

@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.section-contact{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 5rem 2rem;
+}
+.contact-info{
+    flex: 1;
+    min-width: 280px;
+    margin-right: 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+}
+.contact-info .title{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.contact-info .sac{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.contact-info .redes{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.contact-info .redes .redesocial-icon{
+    display: flex;
+    gap: 30px;
+}
+
+
+
+
+.formulario{
+    flex: 1;
+    min-width: 300px;
+    background-color: #222;
+    padding: 2rem;
+    border-radius: 8px;
+}
+.formulario input,
+.formulario textarea {
+  width: 100%;
+  margin-bottom: 1rem;
+  padding: 0.75rem;
+  background-color: #333;
+  border: none;
+  color: white;
+  border-radius: 4px;
+}
+
+
+.title a{
+    text-decoration: none;
+}
+
+
+
+
+
+/* Layout base para telas grandes (já está aplicado com flex) */
+@media (max-width: 690px) {
+  .section-contact {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+  }
+}

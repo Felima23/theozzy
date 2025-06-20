@@ -1,0 +1,498 @@
+[
+    {
+    "id": 1,
+    "categoria": "BURGERS",
+    "nome": "SYDNEY",
+    "descricao": "Burger angus, queijo prato, pão, picles caseiro e molho especial",
+    "precos": {
+      "R$": "28,90",
+      "Futuro": "33,90"
+    }
+  },
+  {
+    "id": 2,
+    "categoria": "BURGERS",
+    "nome": "MELBOURNE",
+    "descricao": "Burger angus, queijo prato, pão, picles caseiro, molho especial, alface e tomate",
+    "precos": {
+      "R$": "31,90",
+      "Futuro": "34,90"
+    }
+  },
+  {
+    "id": 3,
+    "categoria": "BURGERS",
+    "nome": "TASMANIA",
+    "descricao": "Burger angus, queijo prato, pão, bacon, picles caseiro e molho especial",
+    "precos": {
+      "R$": "32,90",
+      "Futuro":"35,90"
+    }
+  },
+  {
+    "id": 4,
+    "categoria": "BURGERS",
+    "nome": "GOLD COAST",
+    "descricao": "Burger angus, pão, picles caseiro, molho especial e injeção de cheddar",
+    "precos": {
+      "R$": "41,90",
+      "Futuro":"46,90"
+    }
+  },
+  {
+    "id": 5,
+    "categoria": "BURGERS",
+    "nome": "CAMBERRA",
+    "descricao": "Burger angus, injeção de cheddar, pão australiano, bacon, cebola caramelizada e molho especial",
+    "precos": {
+      "R$": "32,90",
+      "Futuro":"37,90"
+    }
+  },
+  {
+    "id": 6,
+    "categoria": "BURGERS",
+    "nome": "BRISBANE",
+    "descricao": "Burger de frango empanado, queijo prato, pão, picles caseiro, alface e maionese de ervas",
+    "precos": {
+      "R$": "30,90",
+      "Futuro": "35,90"
+    }
+  },
+
+  {
+    "id": 7,
+    "categoria": "BURGERS",
+    "nome": "PERTH",
+    "descricao": "Agora o Perth faz homenagem ao Big Mac (Dois hambúrgueres, alface, queijo, molho especial, cebola e picles no pão de gergelim)",
+    "precos": {
+      "R$": "38,90",
+      "Futuro":"41,90"
+    }
+  },
+
+  {
+    "id": 8,
+    "categoria": "COMBOS",
+    "nome": "FUTURO COMBO",
+    "descricao": "Burger do futuro smash (vegetariano), pão, american cheese, picles e molho especial. (para mais opções utilize os adicionais) + Opera Fries Individual (acompanha maionese verde a parte) + refri",
+    "precos": {
+      "R$": "45,99"
+    }
+  },
+  {
+    "id": 9,
+    "categoria": "COMBOS",
+    "nome": "SYDNEY",
+    "descricao": "Burger sydney smash (burger angus 100g (carne grelhada com cebola), american cheese, pão , picles caseiro e molho especial.) + batata frita individual (acompanha maionese verde a parte) + refri",
+    "precos": {
+      "R$": "44,90"
+    }
+  },
+  {
+    "id": 10,
+    "categoria": "COMBOS",
+    "nome": "COMBO KIDS",
+    "descricao": "2 mini cheeseburgers + Opera fries individual + Suco Dell Vale 200ml",
+    "precos": {
+      "R$": "31,90"
+    }
+  },
+  {
+    "id": 11,
+    "categoria": "COMBOS",
+    "nome": "MELBOURNE",
+    "descricao": "Burger melbourne smash (burger angus 100g, american cheese, pão, alface, tomate, picles caseiro e molho especial.) + batata frita individual (acompanha maionese verde a parte) + refri",
+    "precos": {
+      "R$": "47,90"
+    }
+  },
+  {
+    "id": 12,
+    "categoria": "COMBOS",
+    "nome": "TASMANIA",
+    "descricao": "Burger tasmania smash (burger angus 100g, bacon, american cheese, pão, picles e molho especial.) + batata frita individual (acompanha maionese verde a parte) + refri",
+    "precos": {
+      "R$": "48,90"
+    }
+  },
+  {
+    "id": 13,
+    "categoria": "COMBOS",
+    "nome": "CAMBERRA",
+    "descricao": "Combo Camberra - pão australiano, molho especial, picles, carne 100g, cebola caramelizada, bacon, american cheese + opera fries individual + refrigerante + maionese verde a parte",
+    "precos": {
+      "R$": "49,90"
+    }
+  },
+  {
+    "id": 14,
+    "categoria": "COMBOS",
+    "nome": "BRISBANE",
+    "descricao": "Combo Brisbane - lanche brisbane (Peito de frango empanado estilo KFC, american cheese, picles, pão brioche, alface e maionese caseira de ervas) + opera fries individual + refrigerante + maionese verde a parte",
+    "precos": {
+      "R$": "46,90"
+    }
+  },
+  {
+    "id": 15,
+    "categoria": "COMBOS",
+    "nome": "GOLD COAST",
+    "descricao": "lanche gold coast (Pão, burger angus 100g, queijo mussarela empanado, american cheese, bacon, molho de mostarda e mel + opera fries individual + refrigerante + maionese verde a parte",
+    "precos": {
+      "R$": "57,90"
+    }
+  },
+  {
+    "id": 16,
+    "categoria": "COMBOS",
+    "nome": "PERTH",
+    "descricao": "lanche Perth (Dois hambúrgueres, alface, queijo, molho especial, cebola e picles no pão com gergelim) +  opera fries individual + refrigerante + maionese verde a parte",
+    "precos": {
+      "R$": "54,90"
+    }
+  },
+  {
+    "id": 17,
+    "categoria": "SIDES",
+    "nome": "OPERA FRIES",
+    "descricao": "Batatas fritas no palito com tempero da casa (Não incluso maionese verde)",
+    "precos": {
+      "R$": "11,90"
+    }
+  },
+  {
+    "id": 18,
+    "categoria": "SIDES",
+    "nome": "CHEESE BALLS",
+    "descricao": "Bolinhas de queijo feitas na casa acompanhadas de geléia de pimenta (8 unidades)",
+    "precos": {
+      "R$": "22,90"
+    }
+  },
+  {
+    "id": 19,
+    "categoria": "SIDES",
+    "nome": "CHICKEN FINGERS",
+    "descricao": "Palitinhos de peito de frango empanados, acompanhando molho de mostarda e mel (200gr)",
+    "precos": {
+      "R$": "27,90"
+    }
+  },
+  {
+    "id": 20,
+    "categoria": "SIDES",
+    "nome": "NUGGETS",
+    "descricao": "Não resistimos aos nuggets mais famosos daquele lugar lá que você conhece! 08 unidades acompanha maionese defumada da casa!",
+    "precos": {
+      "R$": "20,90"
+    }
+  },
+  {
+    "id": 21,
+    "categoria": "SIDES",
+    "nome": "NUGGETS",
+    "descricao": "Não resistimos aos nuggets mais famosos daquele lugar lá que você conhece! 16 unidades acompanha maionese defumada da casa!",
+    "precos": {
+      "R$": "30,90"
+    }
+  },
+  {
+    "id": 22,
+    "categoria": "SIDES",
+    "nome": "OPERA FRIES GG",
+    "descricao": "Batatas fritas palito com tempero da casa e maionese verde (serve de 2 a 3 pessoas)",
+    "precos": {
+      "R$": "27,90"
+    }
+  },
+  {
+    "id": 23,
+    "categoria": "SIDES",
+    "nome": "CHEDDAR FRIES GG",
+    "descricao": "Batatas fritas no palito com tempero da casa, farofa de bacon, molho de cheddar cremoso e cebolinha(serve de 2 a 3 pessoas)",
+    "precos": {
+      "R$": "34,90"
+    }
+  },
+  {
+    "id": 24,
+    "categoria": "DESSERTS",
+    "nome": "MILKSHAKE MORANGO",
+    "descricao": "Base de creme americano, calda de morango com pedaços finalizado com Chantilly. 400ml",
+    "precos": {
+      "R$": "27,90"
+    }
+  },
+  {
+    "id": 25,
+    "categoria": "DESSERTS",
+    "nome": "MILKSHAKE NUTELLA",
+    "descricao": "Base de creme americano com Nutella finalizado com Chantilly. 400ml",
+    "precos": {
+      "R$": "27,90"
+    }
+  },
+  {
+    "id": 26,
+    "categoria": "DESSERTS",
+    "nome": "MILKSHAKE PISTACHE",
+    "descricao": "Base de creme americano, pasta de pistache e finalizado com chantilly",
+    "precos": {
+      "R$": "29,90"
+    }
+  },
+  {
+    "id": 27,
+    "categoria": "DESSERTS",
+    "nome": "CROC BROWNIE PISTACHE",
+    "descricao": "Nosso delicioso brownie feito na casa coberto com pistache e pistache triturado por cima!",
+    "precos": {
+      "R$": "28,90"
+    }
+  },
+  {
+    "id": 28,
+    "categoria": "DESSERTS",
+    "nome": "CROC BROWNIE NUTELLA",
+    "descricao": "Nosso delicioso brownie feito na casa coberto com nutella, farofa de brownie, creme americano e ganache de chocolate pra finalizar. *No delivery não acompanha a ganache.",
+    "precos": {
+      "R$": "28,90"
+    }
+  },
+  {
+    "id": 29,
+    "categoria": "DRINKS",
+    "nome": "BLOOD LEMONADE",
+    "descricao": "A nossa nova limonada da casa agora é vermelha! Água, limão, xarope de hibisco feito na casa, gelo servido em uma caneca de 680ml",
+    "precos": {
+      "680ml": "9,90",
+      "1L":"19,90"
+    }
+  },
+  
+  {
+    "id": 30,
+    "categoria": "DRINKS",
+    "nome": "CHAUSSIE LIMÃO",
+    "descricao": "Base de chá mate, essência de limão( artesanal), gelo Caneca de 680ml",
+    "precos": {
+      "680ml": "9,90",
+      "1L":"19,90"
+    }
+  },
+  
+  {
+    "id": 31,
+    "categoria": "DRINKS",
+    "nome": "CHAUSSIE PÊSSEGO",
+    "descricao": "Base de chá mate, essência de pêssego ( artesanal), gelo Caneca de 680ml",
+    "precos": {
+      "680ml": "9,90",
+      "1L":"19,90"
+    }
+  },  
+  {
+    "id": 32,
+    "categoria": "DRINKS",
+    "nome": "COCA-COLA",
+    "descricao": "Refrigerante Coca-cola",
+    "precos": {
+      "350ml": "6,90",
+      "1L":"19,90"
+    }
+  },
+  {
+    "id": 33,
+    "categoria": "DRINKS",
+    "nome": "COCA-COLA ZERO",
+    "descricao": "Refrigerante Coca-cola Zero",
+    "precos": {
+      "350ml": "6,90",
+      "1L":"19,90"
+    }
+  },
+  {
+    "id": 34,
+    "categoria": "DRINKS",
+    "nome": "GUARANÁ",
+    "descricao": "Refrigerante Guaraná",
+    "precos": {
+      "350ml": "6,90",
+      "1L":"19,90"
+    }
+  },
+  {
+    "id": 35,
+    "categoria": "DRINKS",
+    "nome": "GUARANÁ ZERO",
+    "descricao": "Refrigerante Guaraná Zero",
+    "precos": {
+      "350ml": "6,90",
+      "1L":"19,90"
+    }
+  },
+  {
+    "id": 36,
+    "categoria": "DRINKS",
+    "nome": "AGUÁ",
+    "descricao": "500ml",
+    "precos": {
+      "R$": "5,00"
+    }
+  },
+  {
+    "id": 37,
+    "categoria": "DRINKS",
+    "nome": "AGUÁ COM GÁS",
+    "descricao": "500ml",
+    "precos": {
+      "R$": "5,00"
+    }
+  },
+  {
+    "id": 38,
+    "categoria": "DRINKS",
+    "nome": "SUCO DEL VALLE LARANJA",
+    "descricao": "200ml",
+    "precos": {
+      "R$": "5,90"
+    }
+  },
+  {
+    "id": 39,
+    "categoria": "DRINKS",
+    "nome": "SUCO DEL VALLE UVA",
+    "descricao": "200ml",
+    "precos": {
+      "R$": "5,90"
+    }
+  },
+  {
+    "id": 40,
+    "categoria": "DRINKS",
+    "nome": "STELLA ARTOIS",
+    "descricao": "Long Neck - 330ml (+18)",
+    "precos": {
+      "R$": "13,00"
+    }
+  },
+  {
+    "id": 41,
+    "categoria": "ADICIONAIS",
+    "nome": "PISCINA CHEDDAR",
+    "descricao": "Agora você pode pedir sua piscina de cheddar a parte pra usar como quiser! Acompanha uma porção de farofa de bacon para ficar ainda melhor!",
+    "precos": {
+      "R$": "12,90"
+    }
+  },
+  {
+    "id": 42,
+    "categoria": "ADICIONAIS",
+    "nome": "INJEÇÃO DE CHEDDAR",
+    "descricao": "Molho a base de cheddar deliciosamente cremoso pra você colocar do jeito que você quiser no seu lanche ou batata!",
+    "precos": {
+      "R$": "4,00"
+    }
+  },
+  {
+    "id": 43,
+    "categoria": "ADICIONAIS",
+    "nome": "MAIONESE DEFUMADA",
+    "descricao": "Nosso delicioso adicional de maionese defumada desenvolvida em receita na casa! Potinho a parte de 30ml",
+    "precos": {
+      "R$": "4,00"
+    }
+  },
+  {
+    "id": 44,
+    "categoria": "ADICIONAIS",
+    "nome": "MAIONESE VERDE",
+    "descricao": "Potinho de 30ml com maionese de ervas",
+    "precos": {
+      "R$": "4,00"
+    }
+  },
+  {
+    "id": 45,
+    "categoria": "ADICIONAIS",
+    "nome": "MAIONESE MOSTARDE E MEL",
+    "descricao": "Molho feito na casa a base de mostarda e mel. 30ml",
+    "precos": {
+      "R$": "4,00"
+    }
+  },
+  {
+    "id": 46,
+    "categoria": "ADICIONAIS",
+    "nome": "MOLHO ESPECIAL",
+    "descricao": "Potinho a parte de 30ml",
+    "precos": {
+      "R$": "4,00"
+    }
+  },
+  {
+    "id": 47,
+    "categoria": "ADICIONAIS",
+    "nome": "FAROFA DE BACON",
+    "descricao": "Potinho extra com farofa de bacon",
+    "precos": {
+      "R$": "5,00"
+    }
+  },
+  {
+    "id": 48,
+    "categoria": "OZZY BITES",
+    "nome": "MAROUBRA BITES",
+    "descricao": "6 mini cheeseburgers, (Pão, carne, queijo, ketchup, mostarda, picles e cebola picadinha), opera fries, chicken fingers, 1 injeção de cheddar, 1 molho mostarda e mel e 1 maionese verde.",
+    "precos": {
+      "R$": "108,00"
+    }
+  },
+  {
+    "id": 49,
+    "categoria": "OZZY BITES",
+    "nome": "BRYON BITES",
+    "descricao": "4 mini melbournes (x-salada), 4 mini tasmanias (x-bacon), cheese fries Gg, acompanha maionese verde",
+    "precos": {
+      "R$": "118,00"
+    }
+  },
+  {
+    "id": 50,
+    "categoria": "NOVIDADES DO MÊS",
+    "nome": "FONDUE INVERNO SALGADO",
+    "descricao": "Nosso sucesso todo ano, voltou o nosso Fondue de cheddar! Nessa opção você escolhe entre 2 lanches! Acompanha 1 porção de chicken fingers, 1 porção de batata-frita. Além de uma porção do nosso cheddar com 4 belas fatias de bacon! Bebida inclusa, refil de blood lemonade ou chaussie ou dois refrigerantes uma única vez.",
+    "precos": {
+      "R$": "140,00"
+    }
+  },
+  {
+    "id": 51,
+    "categoria": "NOVIDADES DO MÊS",
+    "nome": "LANCHE DO MÊS",
+    "descricao": "Pão de batata, burger 100g, american cheese, catupiry empanado, cebola roxa, alface, tomate e maionese defumada!",
+    "precos": {
+      "R$": "36,90",
+      "Combo":"52,90"
+    }
+  },
+  {
+    "id": 52,
+    "categoria": "NOVIDADES DO MÊS",
+    "nome": "COOKIES NUTELLA",
+    "descricao": "Nosso delicioso cookie recheado de Nutella feito na casa!",
+    "precos": {
+      "R$": "17,90"
+    }
+  },
+  {
+    "id": 53,
+    "categoria": "NOVIDADES DO MÊS",
+    "nome": "MILKSHAKE DO MÊS",
+    "descricao": "Milkshake de Oreo! Creme Americano, oreo triturado e calda de chocolate!",
+    "precos": {
+      "R$": "28,90"
+    }
+  } 
+]

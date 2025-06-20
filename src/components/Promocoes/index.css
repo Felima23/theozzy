@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.section-promo{
+    width: 100%;
+    height: 100%;
+    background-color: #ffffffe9;
+    padding-bottom: 100px;
+    display: flex;
+    flex-direction: column;
+}
+.txt-promo{
+   margin-bottom: 50px;
+}
+.caixas-promo{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 35px;
+}
+.box-promo{
+    width: 320px;
+    height: 464px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+.box-promo:hover{
+    transform:scale(1.05);
+}
+.box-promo img{
+    width: 100%;
+    height: 100%;
+    border-radius: 8px;
+}
+
+
+@media (max-width: 480px) {
+  .txt-promo {
+    padding: 0 25px;
+  }
+}
