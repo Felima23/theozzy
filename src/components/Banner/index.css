@@ -10,7 +10,7 @@
     display: flex;
     align-items: center;
     background-position: center;
-    background-image: url('../../assets/IMG/banner2.jpg');
+    background-image: url('../../assets/IMG/banner2.svg');
     background-size: cover;
     background-repeat: no-repeat;
 }

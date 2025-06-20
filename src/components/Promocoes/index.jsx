@@ -1,8 +1,8 @@
 import './index.css'
 import { P, Title } from './styles';
-import promo1 from "../../assets/IMG/promo1.jpg"
-import promo2 from "../../assets/IMG/promo2.jpg"
-import promo3 from "../../assets/IMG/promo3.jpg"
+import promo1 from "../../assets/IMG/promo1.svg"
+import promo2 from "../../assets/IMG/promo2.svg"
+import promo3 from "../../assets/IMG/promo3.svg"
 
 function Promocoes(){
     return(
