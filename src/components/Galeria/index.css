@@ -3,7 +3,6 @@
     padding: 0;
     box-sizing: border-box;
 }
-
 .galeria-container{
     width: 100%;
     overflow: hidden;
@@ -11,7 +10,8 @@
 .galeria-faixa{
     display: flex;
     gap: 20px;
-    animation: deslizar 100s linear infinite;
+    animation: deslizar 20s linear infinite;
+    width: max-content;
 }
 @keyframes deslizar {
   0% {
