@@ -10,7 +10,7 @@
 .galeria-faixa{
     display: flex;
     gap: 20px;
-    animation: deslizar 5s linear infinite;
+    animation: deslizar 10s linear infinite;
     width: max-content;
 }
 @keyframes deslizar {
