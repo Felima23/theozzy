@@ -69,13 +69,18 @@ Please change the parent <Route path="${Y}"> to <Route path="${Y==="/"?"*":`${Y}
 `,Om="/theozzy/assets/logo-CNrdY5bC.jpg";function oc(){const[u,c]=C.useState(!1);return h.jsx(h.Fragment,{children:h.jsxs("header",{children:[h.jsx(ft,{to:"/",children:h.jsx(Zy,{src:Om,alt:"logo da Hamburgueria"})}),h.jsxs("div",{className:"mobile-menu-icon",onClick:()=>c(!u),children:[h.jsx("div",{className:"line"}),h.jsx("div",{className:"line"}),h.jsx("div",{className:"line"})]}),h.jsxs("ul",{className:`nav-list ${u?"active":""}`,children:[h.jsx("li",{children:h.jsx(ru,{as:ft,to:"/",children:"Início"})}),h.jsx("li",{children:h.jsx(ru,{as:ft,to:"/unidades",children:"Unidades"})}),h.jsx("li",{children:h.jsx(ru,{as:ft,to:"/#cardapio",children:"Cardápio"})}),h.jsx("li",{children:h.jsx(ru,{as:ft,to:"/delivery",children:"Delivery"})}),h.jsx("li",{children:h.jsx(ru,{as:ft,to:"/contato",children:"Contato"})})]})]})})}const Xy=ne.h1`
     font-weight: 900;
     color: yellow;
-    letter-spacing:3px;
+    letter-spacing:2px;
     font-family: "Anton", sans-serif;
     text-shadow: 2px 2px 4px #000;
-    font-size: clamp(1.9rem, 8vw, 5rem); /* ajusta conforme a largura da tela */
+    font-size: clamp(24px, 6vw, 60px); /* Responsivo */
+    line-height: 1.2;
     span{
         color:#fff;
     }
+
+    @media (max-width: 480px) {
+    text-align:center;
+  }
 `;function Qy(){return h.jsxs(h.Fragment,{children:[h.jsx("section",{className:"sec-banner",children:h.jsx("div",{className:"titulos",children:h.jsxs(Xy,{children:["THE OZZY, O MELHOR ",h.jsx("br",{}),h.jsx("span",{children:"SMASHBURGER"}),h.jsx("br",{}),"DO BRASIL"]})})}),h.jsxs("div",{className:"scroll-indicator",children:[h.jsx("span",{children:"SCROLL"}),h.jsx("div",{className:"line"})]})]})}const Vy=ne.h1`
     font-weight: 300;
     color: #fff;
