@@ -1,5 +1,5 @@
 import './index.css'
-import logo from "../../assets/IMG/logo.svg"
+import logo from "../../assets/IMG/logo.jpg"
 import ifood from "../../assets/IMG/ifood-43.svg"
 import goomer from "../../assets/IMG/goomer-seeklogo.svg"
 import { A, H1, H4, Logo, P } from './styles';

@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import './index.css'
 import { A, Logo,} from './styles';
-import logo from "../../assets/IMG/logo.svg"
+import logo from "../../assets/IMG/logo.jpg"
 import { Link} from 'react-router-dom'
 
 function Header(){
