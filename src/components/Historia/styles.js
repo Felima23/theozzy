@@ -17,7 +17,7 @@ export const Title = styled.h1`
     font-family: "Anton", sans-serif;
     font-size:35px;
     text-shadow: 2px 2px 4px #000;
-    font-size: clamp(2rem, 1vw, 1rem);
+    font-size: clamp(24px, 6vw, 32px); /* Responsivo */
 `;
 export const P = styled.p`
     font-weight: 500;
