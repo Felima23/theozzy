@@ -3,7 +3,7 @@ import styled from 'styled-components'
 export const Title = styled.h1`
     font-weight: 600;
     color: #000;
-    letter-spacing:3px;
+    letter-spacing:2px;
     font-family: "Anton", sans-serif;
     font-size:45px;
     text-align:center;
