@@ -96,7 +96,7 @@ Please change the parent <Route path="${Y}"> to <Route path="${Y==="/"?"*":`${Y}
     font-family: "Anton", sans-serif;
     font-size:35px;
     text-shadow: 2px 2px 4px #000;
-    font-size: clamp(2rem, 1vw, 1rem);
+    font-size: clamp(24px, 6vw, 32px); /* Responsivo */
 `,lt=ne.p`
     font-weight: 500;
     color: #fff;
