@@ -88,7 +88,7 @@ Please change the parent <Route path="${Y}"> to <Route path="${Y==="/"?"*":`${Y}
     font-family: "Anton", sans-serif;
     font-size: clamp(40px, 45px, 50px); /* Responsivo */
     text-align:center;
-    margin: 30px 40px;
+    margin: 30px 50px;
 `,Bi=ne.h1`
     font-weight: 600;
     color: #fff;
