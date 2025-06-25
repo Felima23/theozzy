@@ -8,7 +8,7 @@ import unidade1 from "../../assets/IMG/unidade1.jpg"
 function Historia(){
     return(
         <>
-            <H1>BEM-VINDO AO THE OZZY</H1>
+            <H1>BEM-VINDO<br />AO THE OZZY</H1>
 
             <section className='container-sobre'>
                 <div className="bloco-par">
