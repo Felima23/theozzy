@@ -62,11 +62,16 @@
   }
 }
 /*CSS - container scroll-indicator*/
+@media (max-width: 1025px) {
+  .sec-banner {
+    background-image: url('../../assets/IMG/responsivebanner1.svg');
+  }
+}
 
-
-
-
-@media (max-width: 425px){
+@media (max-width: 450px){
+  .sec-banner {
+    background-image: url('../../assets/IMG/responsivebanner2.svg');
+  }
   .titulos{
     width: 100%;
     height: 100%;
