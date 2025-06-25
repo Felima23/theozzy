@@ -3,9 +3,9 @@ import styled from 'styled-components'
 export const H1 = styled.h1`
     font-weight: 300;
     color: #fff;
-    letter-spacing:3px;
+    letter-spacing:2px;
     font-family: "Anton", sans-serif;
-    font-size:50px;
+    font-size: clamp(35px, 6vw, 45px); /* Responsivo */
     text-align:center;
     margin: 30px 0px;
 `;
