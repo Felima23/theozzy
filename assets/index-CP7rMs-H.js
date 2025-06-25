@@ -86,9 +86,9 @@ Please change the parent <Route path="${Y}"> to <Route path="${Y==="/"?"*":`${Y}
     color: #fff;
     letter-spacing:2px;
     font-family: "Anton", sans-serif;
-    font-size: clamp(35px, 6vw, 45px); /* Responsivo */
+    font-size: clamp(35px, 40px, 50px); /* Responsivo */
     text-align:center;
-    margin: 30px 0px;
+    margin: 30px 10px;
 `,Bi=ne.h1`
     font-weight: 600;
     color: #fff;
@@ -113,7 +113,7 @@ Please change the parent <Route path="${Y}"> to <Route path="${Y==="/"?"*":`${Y}
     color: #fff;
     letter-spacing:2px;
     font-family: "Anton", sans-serif;
-    font-size:50px;
+    font-size: clamp(35px, 40px, 50px); /* Responsivo */
     text-align:center;
     margin-bottom:50px;
 `,Fy=ne.a`
@@ -170,17 +170,16 @@ text-shadow:1px 2px 3px #000;
     color: #fff;
     letter-spacing:2px;
     font-family: "Anton", sans-serif;
-    font-size:50px;
+    font-size: clamp(35px, 40px, 50px); /* Responsivo */
     text-align:center;
-    margin:50px 0px;
+    margin:50px 10px;
 `,u2="/theozzy/assets/Imagem1-BGf-i8RJ.jpg",i2="/theozzy/assets/imagem2-BGGbdDtQ.jpg",c2="/theozzy/assets/imagem3-B5rvw8g-.jpg",r2="/theozzy/assets/imagem4-91_32IAU.jpg",o2="/theozzy/assets/imagem5-Bu1-qfC3.jpg",s2="/theozzy/assets/imagem6-DmGn0i4P.jpg",f2="/theozzy/assets/imagem7-Yg0NLMV_.jpg";function d2(){const u=[u2,i2,c2,r2,o2,s2,f2];return h.jsxs(h.Fragment,{children:["  ",h.jsx(n2,{children:"NOSSA GALERIA"}),h.jsx("div",{className:"galeria-container",children:h.jsx("div",{className:"galeria-faixa",children:u.concat(u).map((c,o)=>h.jsx(l2,{src:c,alt:`Imagem ${o+1}`},o))})})]})}const h2=ne.h1`
     font-weight: 600;
     color: #000;
     letter-spacing:2px;
     font-family: "Anton", sans-serif;
-    font-size:45px;
+    font-size: clamp(35px, 45px, 50px); /* Responsivo */
     text-align:center;
-    
     margin-top:50px;
 `,m2=ne.p`
     font-weight: 500;
@@ -230,9 +229,9 @@ text-shadow:1px 2px 3px #000;
     color: #fff;
     letter-spacing:2px;
     font-family: "Anton", sans-serif;
-    font-size:50px;
+    font-size: clamp(35px, 40px, 50px); /* Responsivo */
     text-align:center;
-    margin:50px 0px;
+    margin:50px 10px;
 `;function N2(){return h.jsx(h.Fragment,{children:h.jsxs("section",{className:"video-section",children:[h.jsx(j2,{children:"Assista no YouTube"}),h.jsx("div",{className:"video-container",children:h.jsx("iframe",{className:"youtube-video",src:"https://www.youtube.com/embed/WFrKouaXM1o",title:"Video do projeto",frameBorder:"0",allow:"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",allowFullScreen:!0})})]})})}function D2(){const u=pa();return C.useEffect(()=>{if(u.hash){const c=u.hash.replace("#",""),o=document.getElementById(c);o&&o.scrollIntoView({behavior:"smooth"})}},[u]),h.jsx(h.Fragment,{children:h.jsxs("div",{className:"home-container",children:[h.jsx(oc,{}),h.jsx(Qy,{}),h.jsx(Jy,{}),h.jsx(N2,{}),h.jsx(d2,{}),h.jsx(a2,{}),h.jsx(jm,{}),h.jsx(sc,{})]})})}const M2=ne.h1`
     font-weight:600;
     color: #fff;
