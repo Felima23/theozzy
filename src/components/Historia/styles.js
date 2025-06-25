@@ -5,9 +5,9 @@ export const H1 = styled.h1`
     color: #fff;
     letter-spacing:2px;
     font-family: "Anton", sans-serif;
-    font-size: clamp(35px, 6vw, 45px); /* Responsivo */
+    font-size: clamp(35px, 40px, 50px); /* Responsivo */
     text-align:center;
-    margin: 30px 0px;
+    margin: 30px 10px;
 `;
 
 export const Title = styled.h1`

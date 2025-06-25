@@ -5,7 +5,7 @@ export const H1 = styled.h1`
     color: #fff;
     letter-spacing:2px;
     font-family: "Anton", sans-serif;
-    font-size:50px;
+    font-size: clamp(35px, 40px, 50px); /* Responsivo */
     text-align:center;
     margin-bottom:50px;
 `;
