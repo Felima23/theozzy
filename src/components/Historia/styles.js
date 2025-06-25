@@ -7,7 +7,7 @@ export const H1 = styled.h1`
     font-family: "Anton", sans-serif;
     font-size: clamp(40px, 45px, 50px); /* Responsivo */
     text-align:center;
-    margin: 30px 10px;
+    margin: 30px 30px;
 `;
 
 export const Title = styled.h1`
