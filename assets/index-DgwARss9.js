@@ -84,9 +84,9 @@ Please change the parent <Route path="${Y}"> to <Route path="${Y==="/"?"*":`${Y}
 `;function Qy(){return h.jsxs(h.Fragment,{children:[h.jsx("section",{className:"sec-banner",children:h.jsx("div",{className:"titulos",children:h.jsxs(Xy,{children:["THE OZZY, O MELHOR ",h.jsx("br",{}),h.jsx("span",{children:"SMASHBURGER"}),h.jsx("br",{}),"DO BRASIL"]})})}),h.jsxs("div",{className:"scroll-indicator",children:[h.jsx("span",{children:"SCROLL"}),h.jsx("div",{className:"line"})]})]})}const Vy=ne.h1`
     font-weight: 300;
     color: #fff;
-    letter-spacing:3px;
+    letter-spacing:2px;
     font-family: "Anton", sans-serif;
-    font-size:50px;
+    font-size: clamp(35px, 6vw, 45px); /* Responsivo */
     text-align:center;
     margin: 30px 0px;
 `,Bi=ne.h1`
